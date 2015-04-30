@@ -37,9 +37,11 @@ A repository that covers how to install Ruby on every platform for every Ruby bo
 
 ### Gentoo
 
-### Ubuntu
+### RHEL
 
 ### Solaris
+
+### Ubuntu
 
 ## Windows
 
