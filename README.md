@@ -1,6 +1,6 @@
 # Install Ruby
 
-A repository that covers how to install Ruby on every platform for every Ruby book to reference to. No need to spend one precious section to document how to install Ruby.
+A repository that covers how to install Ruby on every platform for every Ruby book/tutorial/guide to reference to. No need to spend precious content to document how to install Ruby.
 
 ## Methods
 
